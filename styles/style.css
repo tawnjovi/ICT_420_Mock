@@ -73,11 +73,5 @@ margin-bottom: 0;}
 
 form{width: 80%;}
 
-#searchinput{position: fixed;
-  resize: none;
-  text-align: right;
-  height: 15px;
-width: 250px;}
-
 input{position: fixed;
 text-align: right;}
